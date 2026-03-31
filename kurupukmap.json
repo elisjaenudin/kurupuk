@@ -1,0 +1,54 @@
+{
+  "maps": [
+    {
+      "name": "Dandys Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.zip"
+    },
+	{
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.zip"
+    },
+    {
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.zip"
+    },
+	{
+      "name": "Dandys Adventure World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.zip"
+    },
+	{
+      "name": "Dandys Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.zip"
+    },
+    {
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.zip"
+    },
+	{
+      "name": "Dandys Adventure World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.zip"
+    },
+	{
+      "name": "Dandys Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys1.zip"
+    },
+    {
+      "name": "Dandys Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys2.zip"
+    },
+	{
+      "name": "Dandys Adventure World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/dandys3.zip"
+    }
+  ]
+}
